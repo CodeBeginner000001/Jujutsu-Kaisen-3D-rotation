@@ -14,7 +14,6 @@ Welcome to the **Jujutsu Kaisen 3D Picture Rotation** project! This project show
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 You can see a live demo of the project [here](#).
@@ -41,7 +40,9 @@ To run this project locally, follow these steps:
 Open the `index.html` file in your preferred web browser to view the 3D picture rotation effect.
 
 ## Contributing
+<h3>
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or new features you would like to add.
+</h3>
 ---
 
 Feel free to customize the project further and share it with your friends. Enjoy the 3D rotation effect inspired by Jujutsu Kaisen!
