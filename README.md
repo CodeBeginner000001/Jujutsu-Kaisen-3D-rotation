@@ -29,11 +29,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/CodeBeginner000001/jujutsu-kaisen-3d-rotation.git
+    git clone https://github.com/CodeBeginner000001/Jujutsu-Kaisen-3d-rotation.git
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd jujutsu-kaisen-3d-rotation
+    cd Jujutsu-Kaisen-3d-rotation
     ```
 
 ## Usage
