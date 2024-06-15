@@ -1,4 +1,4 @@
-![Icon](https://github.com/CodeBeginner000001/Jujutsu-Kaisen-3d-rotation/assets/92913917/c0697a70-0970-4587-a04f-4bfa90e03da6)
+<img width="640" src="https://github.com/CodeBeginner000001/Jujutsu-Kaisen-3d-rotation/assets/92913917/c0697a70-0970-4587-a04f-4bfa90e03da6">
 
 # Jujutsu Kaisen 3D Picture Rotation
 
