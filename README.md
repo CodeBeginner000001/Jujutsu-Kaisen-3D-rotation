@@ -1,4 +1,6 @@
-<img width="640" src="https://github.com/CodeBeginner000001/Jujutsu-Kaisen-3d-rotation/assets/92913917/c0697a70-0970-4587-a04f-4bfa90e03da6">
+<p align="center">
+<img width="640" height="440" src="https://github.com/CodeBeginner000001/Jujutsu-Kaisen-3d-rotation/assets/92913917/c0697a70-0970-4587-a04f-4bfa90e03da6">
+</p>
 
 # Jujutsu Kaisen 3D Picture Rotation
 
