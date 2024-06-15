@@ -1,5 +1,5 @@
 <p align="center">
-<img width="640" height="240" src="https://github.com/CodeBeginner000001/Jujutsu-Kaisen-3d-rotation/assets/92913917/c0697a70-0970-4587-a04f-4bfa90e03da6">
+<img width="640" height="340" src="https://github.com/CodeBeginner000001/Jujutsu-Kaisen-3d-rotation/assets/92913917/c0697a70-0970-4587-a04f-4bfa90e03da6">
 </p>
 
 # Jujutsu Kaisen 3D Picture Rotation
